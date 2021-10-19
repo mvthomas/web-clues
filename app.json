@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "video_task",
+    "slug": "video_task",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "video_task"
+}
